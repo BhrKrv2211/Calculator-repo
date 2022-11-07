@@ -1,3 +1,3 @@
 # Calculator
 
-Just a bsic ocnsole application made in c++
+Just a basic ocnsole application made in c++
